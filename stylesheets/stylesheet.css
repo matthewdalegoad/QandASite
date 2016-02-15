@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-  max-width: 600px;
+  max-width: 800px;
   min-height: 800px;
   border-left: 1px solid #ccc;
   border-right: 1px solid #ccc;
@@ -48,12 +48,12 @@ a {
 }
 
 h2 {
-  color: #999;
+  color: #0000FF;
   font-size: 1.3em;
 }
 
 h3 {
-  color: #999;
+  color: #0000FF;
   font-size: 1em;
   text-transform: uppercase;
 }
@@ -81,7 +81,7 @@ footer {
 
 /*Tables*/
 table {
-    width: 100%;
+    width: 90%;
 }
 
 table tr th {
